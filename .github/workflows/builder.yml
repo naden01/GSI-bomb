@@ -36,6 +36,7 @@ jobs:
        
        - name: Cloning repo...
          run: git clone --recurse-submodules https://github.com/ping2109/ErfanGSIs-TrebleExp.git ErfanGSIs
+         continue-on-error: true
        
        - name: Installing requirements
          run: |
