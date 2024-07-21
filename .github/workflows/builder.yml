@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_LINK: your rom's direct link
-  ROM_LINK: https://downloads.sourceforge.net/project/projectmatrixx/Android-14/stone/Matrixx-v10.6.1-Official-stone-Gapps-20240717.zip?ts=gAAAAABmnMAeoG_uEOPrzv5SGLpN7JawxcU_wW0e0gd6evGC_NtYXqhnwIG_s1ZXk69PcxkwEvnSx5yPfJ6MNL1WZfWYKMnBIw%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fprojectmatrixx%2Ffiles%2FAndroid-14%2Fstone%2FMatrixx-v10.6.1-Official-stone-Gapps-20240717.zip%2Fdownload
+  ROM_LINK: https://downloads.sourceforge.net/project/kevios12a40roms/RELEASE/evolution_a40-ota-rq3a.210905.001-09191220-unofficial-unsigned.zip?ts=gAAAAABhSKfwG2QmwbDIWKLOsgwwVZpzfw45QWhlvk2t-51g5yZWGXMnwAyLCRp3mGdunmuAJJO_fBy4HdKWcfKfI9YvuCEywg%3D%3D&use_mirror=autoselect&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fkevios12a40roms%2Ffiles%2FRELEASE%2Fevolution_a40-ota-rq3a.210905.001-09191220-unofficial-unsigned.zip%2Fdownload
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
