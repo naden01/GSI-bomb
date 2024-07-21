@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_LINK: your rom's direct link
-  ROM_LINK:https://downloads.sourceforge.net/project/projectmatrixx/Android-14/stone/Matrixx-v10.6.1-Official-stone-Gapps-20240717.zip?ts=gAAAAABmnMAeoG_uEOPrzv5SGLpN7JawxcU_wW0e0gd6evGC_NtYXqhnwIG_s1ZXk69PcxkwEvnSx5yPfJ6MNL1WZfWYKMnBIw%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fprojectmatrixx%2Ffiles%2FAndroid-14%2Fstone%2FMatrixx-v10.6.1-Official-stone-Gapps-20240717.zip%2Fdownload
+  ROM_LINK: https://downloads.sourceforge.net/project/projectmatrixx/Android-14/stone/Matrixx-v10.6.1-Official-stone-Gapps-20240717.zip?ts=gAAAAABmnMAeoG_uEOPrzv5SGLpN7JawxcU_wW0e0gd6evGC_NtYXqhnwIG_s1ZXk69PcxkwEvnSx5yPfJ6MNL1WZfWYKMnBIw%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fprojectmatrixx%2Ffiles%2FAndroid-14%2Fstone%2FMatrixx-v10.6.1-Official-stone-Gapps-20240717.zip%2Fdownload
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
